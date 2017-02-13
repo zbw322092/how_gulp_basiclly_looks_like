@@ -1,0 +1,18 @@
+{
+  "name": "how_gulp_basiclly_looks_like",
+  "version": "1.0.0",
+  "description": "gulp basic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Bowen Zhong",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-load-plugins": "^1.5.0"
+  }
+}
